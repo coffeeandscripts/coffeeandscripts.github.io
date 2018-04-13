@@ -2,7 +2,7 @@
 layout: post
 title:  "Safari vs Chrome: Why I stay native"
 date:   2018-04-14
-excerpt: "And so here it begins, in the most appropriate of fashions..."
+excerpt: "Safari feels like home, Chrome is a noisy guest."
 image: "/images/posts/140418/splash1.png"
 ---
 
