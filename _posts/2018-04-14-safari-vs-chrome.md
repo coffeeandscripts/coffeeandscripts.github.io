@@ -12,7 +12,7 @@ I am a Mac user and live quite intensely in the Apple ecosystem. I know in some 
 
 With the Mac, Safari ships natively. As a native product, it does fit completely seamlessly into the entire experience. All of the GUI elements look normal and work well, which is one of the key tenants of all Apple software. Even when developing for iOS, one of our goals was to make the app seem to fit into the iOS ecosystem and make it look like a native app. This increases trust in the product by the user, raising engagement and returns. We did the same for the Android version of the app. While this was extra work, it certainly paid off.
 
-<span class="image right"><img src="{{ "/images/140418/urukhai.jpg" | absolute_url }}" alt="" /></span> 
+<span class="image right"><img src="{{ "/images/posts/140418/urukhai.jpg" | absolute_url }}" alt="" /></span> 
 
 Now back to the lecture at hand (quoting Snoop Dogg). Google are a monolithic enterprise, with their tendrils reaching into every pocket of the software world. Chrome is one of their babies, trained purely to raid and burn all RAM that stands in their way. A bit like Uruk-hai in Lord of the Rings. That would make my RAM clones of Boromir. But they are yet to betray me to date.
 
