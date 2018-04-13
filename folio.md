@@ -27,15 +27,24 @@ sitemap:
 
 * [howtoendastablerelationship.com](http://www.howtoendastablerelationship.com) - fun and very silly little website I created to allow people to upload ways they have ended a stable relationship (maybe some are true)
 
-## Musical Achievements
+## Musical Achievements:
 
 * [Classical Guitar Volume 1](https://erinsaricilar.bandcamp.com/) - a collection of classical, contemporary and original pieces for classical guitar.
 
-## Publications
-### Academic
-### Personal
+* [A Story Told Through Life And Death - Riddermark](https://riddermark.bandcamp.com/) - death/black metal project that expresses some anguish and some occult.
 
-## Academic Achievements
+* [Magic Carpet - Idelmuff](https://idelmuff.bandcamp.com/) - progressive and eclectic electronica project.
+
+* [Pilgrimage - Crescents](https://crescentsmusic.bandcamp.com/) - piano noodles that both calm and reflect emotions.
+
+## Publications:
+### Academic
+* Optimizing Cell Harvest from Nasal Brushings for Determining Local Allergy Responses [Poster], Apr 27 2017, ARS COSM
+
+### Personal
+* [Ego Obitum Fiet](https://www.amazon.com/Ego-Obitum-Fiet-C-Squire/dp/1388778351/) - epic poem describing the lack of dichotomy between failure and success.
+
+## Academic Achievements:
 
 * International Baccalaureate - 39/45
 
