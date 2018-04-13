@@ -1,0 +1,63 @@
+# Site
+title:              coffee&scripts
+bio:                'Code, medicine, prog rock. This is the life I live.'
+description:        "Code, medicine, prog rock. This is the life I live."
+locale:             en_US
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://coffeeandscripts.com" # the base hostname & protocol for your site
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   coffeeandscripts
+
+# Social
+analytics-id:       "default"
+twitter:            erin_saricilar
+facebook:           erin.saricilar
+instagram:          erinsaricilar
+github:             coffeeandscripts
+
+# personal
+location:           Sydney, Australia
+phone:              (+61) 433 305 302
+email:              erin@coffeeandscripts.com
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
