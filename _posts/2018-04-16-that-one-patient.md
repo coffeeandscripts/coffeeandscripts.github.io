@@ -12,7 +12,7 @@ For me it showed me how valuable life is, and how music is my passion.
 
 ## The Patient
 
-As is quoted in Tool's That Patient, I was spending time in the paediatric hospital's intensive care unit, and felt like:
+As is quoted in Tool's "The Patient", I was spending time in the paediatric hospital's intensive care unit, and felt like:
 
 > If there were no rewards to reap,
 > No loving embrace to see me through,
