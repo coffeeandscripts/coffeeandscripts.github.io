@@ -22,7 +22,7 @@ Coding and software in general came later in life. But it was clear from a young
   <p>
   I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in.
   <br/>
-  <strong>~ Linus Tolvalds</strong>
+  <strong>~ Linus Torvalds</strong>
   </p>
 </div>
 
