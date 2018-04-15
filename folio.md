@@ -7,6 +7,12 @@ sitemap:
     lastmod: 2018-04-14
     changefreq: weekly
 ---
+# Portfolio
+
+||
+|:--:|
+| [Download My CV](/pdfs/resume.pdf) |
+
 ## Coding Projects:
 
 * [SQLcrush](https://github.com/coffeeandscripts/sqlcrush) - a semi-graphical database viewer usable in the terminal
