@@ -4,6 +4,7 @@ title:  "Hello world!"
 date:   2018-04-13
 excerpt: "And so here it begins, in the most appropriate of fashions..."
 image: "/images/posts/130418/hello_world.png"
+comments: true
 ---
 
 ## The Journey Begins Here

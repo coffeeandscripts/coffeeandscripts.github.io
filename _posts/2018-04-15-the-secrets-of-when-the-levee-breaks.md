@@ -4,6 +4,7 @@ title:  "The Secrets Of When The Levee Breaks"
 date:   2018-04-15
 excerpt: "Led Zeppelin's most enigmatic song unravelled with rumours, truth, and some stuff inbetween."
 image: "/images/posts/150418/zeppelin.jpg"
+comments: true
 ---
 
 Led Zeppelin's Fourth is a legend. Not only is it the reinvention of arguably the best rock band in history, but the definition of an entire genre. The brilliance in musicality, sound engineering and poetic theatricality perches it atop the mountain of artistic perfection. Beginning with the album cover, so non-specific, yet describing exactly what the entire album is about: rediscovery and journey (the hermit tarot card) on a backlog of banality (pealing wallpaper). For drummers, John Bonham is a hero, for guitarists, Jimmy Page is godly, for vocalists, Robert Plant is impossible to best, for bassists and keyboardists (song writers in general), John Paul Jones is a heroic teacher.

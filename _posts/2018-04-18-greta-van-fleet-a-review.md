@@ -4,6 +4,7 @@ title:  "Greta Van Fleet: A Review"
 date:   2018-04-18
 excerpt: "Accused of sounding like my favourite band, I had to give them a spin."
 image: "/images/posts/180418/greta.jpg"
+comments: true
 ---
 
 It's not often that a band is accused of ripping off Led Zeppelin. Firstly it's pretty hard to sing like Plant, and it's even harder to play like Page. So when I heard people accusing a bunch of youngsters called Greta Van Fleet of sounding like them, I had to give it a less than openminded crack.

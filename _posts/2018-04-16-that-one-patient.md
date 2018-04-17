@@ -4,6 +4,7 @@ title:  "That One Patient"
 date:   2018-04-16
 excerpt: "Sometimes there is that one patient that you see in the hospital that changes your outlook on medicine and life."
 image: "/images/posts/160418/er1.jpg"
+comments: true
 ---
 
 Sometimes you are faced with a patient that takes your breath away. It can be a different experience for different people. But the defining factor is that you leave having change a bit, and having left a bit of yourself in the room with the patient.

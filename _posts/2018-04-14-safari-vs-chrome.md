@@ -4,6 +4,7 @@ title:  "Safari vs Chrome: Why I stay native"
 date:   2018-04-14
 excerpt: "Safari feels like home, Chrome is a noisy guest."
 image: "/images/posts/140418/splash1.png"
+comments: true
 ---
 
 ## I Choose Safari
