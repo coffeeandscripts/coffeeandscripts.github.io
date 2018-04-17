@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Greta Van Fleet: A Review"
-date:   2018-04-17
+date:   2018-04-18
 excerpt: "Accused of sounding like my favourite band, I had to give them a spin."
 image: "/images/posts/180418/greta.jpg"
 ---
