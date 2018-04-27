@@ -30,3 +30,9 @@ On top of all that is the now famous backwards echo. This involves recording a t
 The best forms of art tell a story. This one does as well. Surprisingly many people (me included), When The Levee Breaks is technically a cover song, telling the story of the Great Mississippi Flood of 1927 where so many people had to flee their homes. The story is not only told through the lyrics, but additionally by the music that is played. It is massive yet tortuous. It's repeating relentlessly by always building on fresh ideas. It feels like a flood ripping through people's livelihoods, and destroying their lives, but at the same time enriching the soil and bringing in new life.
 
 When The Levee Breaks is a special song that was made great by the work of the engineering and production. Andy Johns is an incredible man with talent that rivalled the men he mixed and mastered. Without him it would not be so great. It is the purest culmination of musical talent and will hopefully live on as one of the best songs ever recorded.
+
+*Remember to follow me on social media:<br/>
+[**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
+[**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
+[**Steam:** coffeeandscripts](https://steamcommunity.com/id/coffeeandscripts/)<br/>
+[**Github:** coffeeandscripts](https://github.com/coffeeandscripts)*

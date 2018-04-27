@@ -120,3 +120,9 @@ One thing to note is that with javascript functions, I prefer to create the func
 The last point was to deploy. The way I did this for chrome initially was to add an extension called New Tab Redirect, which worked great, albeit just a tad slow. When I moved to Safari, I could throw this away and it felt great. Just setting one variable was enough for Safari. Unfortunately in my Linux setup, I use Chromium and had to install the extension again. I haven't done anything for qutebrowser since this start page defeats the purpose of a mouseless browser anyway.
 
 If you also want to work with this start page, you can clone or fork it at my Github right [here](https://github.com/coffeeandscripts/startPage).
+
+*Remember to follow me on social media:<br/>
+[**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
+[**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
+[**Steam:** coffeeandscripts](https://steamcommunity.com/id/coffeeandscripts/)<br/>
+[**Github:** coffeeandscripts](https://github.com/coffeeandscripts)*

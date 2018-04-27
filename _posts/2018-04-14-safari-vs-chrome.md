@@ -26,3 +26,9 @@ Chrome does have a very big step up over Safari however, specifically involving 
 On my Linux build, I use Chromium, which is the open source alternative to Chrome, mainly for quick single tab work like Youtube, or if I am developing. Since I like to keep everything on the keyboard and quite streamlined, I don't use it for larger tasks such as reading news while getting through the Arch wiki because I've obviously broken something. I use qutebrowser for that, particularly because it holds my favourite vim keybindings for most efficient movement through everything. But this is a completely different lecture.
 
 All up, I love Safari on my Mac. It's lightweight and fits into the ecosystem flawlessly. It has added privacy compared to Chrome, which is just eating away at your system in the background. However Chrome has an important place for me when it comes to web development, and so will continue to have my love.
+
+*Remember to follow me on social media:<br/>
+[**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
+[**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
+[**Steam:** coffeeandscripts](https://steamcommunity.com/id/coffeeandscripts/)<br/>
+[**Github:** coffeeandscripts](https://github.com/coffeeandscripts)*

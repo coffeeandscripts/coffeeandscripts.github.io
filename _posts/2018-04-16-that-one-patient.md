@@ -52,3 +52,9 @@ Here is an open letter to Ayden:
 *You will most likely never see or meet me, but I felt blessed to have met you. It was a pleasure to be able to help you and your family in an albiet minute way, but you inadvertently helped me to find guidance in my own life. So thank you.*
 
 *I hope you find joy in the rest of what life has to offer.*
+
+*Remember to follow me on social media:<br/>
+[**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
+[**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
+[**Steam:** coffeeandscripts](https://steamcommunity.com/id/coffeeandscripts/)<br/>
+[**Github:** coffeeandscripts](https://github.com/coffeeandscripts)*

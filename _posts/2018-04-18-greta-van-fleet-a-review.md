@@ -24,3 +24,9 @@ They have 2 EPs out, the latest one being more like an album. I really love thei
 The songs don't have a particular flow to them through the EP/album however. There is no conceptual glue that brings them together quite the same way as legendary debut albums such as Hybrid Theory or even Led Zeppelin's First. This is however not particularly important in the context of an EP.
 
 I truly look forward to the first album these talented boys produce, and will keenly be listening to it when they get to it.
+
+*Remember to follow me on social media:<br/>
+[**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
+[**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
+[**Steam:** coffeeandscripts](https://steamcommunity.com/id/coffeeandscripts/)<br/>
+[**Github:** coffeeandscripts](https://github.com/coffeeandscripts)*
