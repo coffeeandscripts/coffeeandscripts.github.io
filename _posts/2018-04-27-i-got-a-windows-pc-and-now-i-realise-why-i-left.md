@@ -2,7 +2,7 @@
 layout: post
 title: "I got a Windows PC and now I realise why I left"
 excerpt: "The HP Omen 15 is amazing, but wow Microsoft still can't make an OS"
-image: "/images/posts//omenDesktop.png"
+image: "/images/posts/270418/omenDesktop.jpg"
 comments: true
 ---
 
