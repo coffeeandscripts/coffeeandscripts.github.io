@@ -6,17 +6,15 @@ image: "/images/posts//.png"
 comments: true
 ---
 
-# Three Is A Great Number
+## Three Is A Great Number
 
-# The Breakdown
+## Work, Play, Sleep
 
-## Work
+## Past, Present, Future
 
-## Play
+## Yourself, Your Friends, Your Community
 
-## Sleep
-
-# The Benefits
+## The Benefits
 
 *Remember to follow me on social media:<br/>
 [**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
