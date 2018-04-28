@@ -27,6 +27,8 @@ On my Linux build, I use Chromium, which is the open source alternative to Chrom
 
 All up, I love Safari on my Mac. It's lightweight and fits into the ecosystem flawlessly. It has added privacy compared to Chrome, which is just eating away at your system in the background. However Chrome has an important place for me when it comes to web development, and so will continue to have my love.
 
+---
+
 *Remember to follow me on social media:<br/>
 [**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
 [**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>

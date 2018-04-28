@@ -25,6 +25,8 @@ The songs don't have a particular flow to them through the EP/album however. The
 
 I truly look forward to the first album these talented boys produce, and will keenly be listening to it when they get to it.
 
+---
+
 *Remember to follow me on social media:<br/>
 [**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
 [**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>

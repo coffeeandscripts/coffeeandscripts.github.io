@@ -15,10 +15,10 @@ For me it showed me how valuable life is, and how music is my passion.
 
 As is quoted in Tool's "The Patient", I was spending time in the paediatric hospital's intensive care unit, and felt like:
 
-> If there were no rewards to reap,
-> No loving embrace to see me through,
-> This tedious path I've chosen here,
-> I certainly would've walked away by now.
+> If there were no rewards to reap,<br/>
+> No loving embrace to see me through,<br/>
+> This tedious path I've chosen here,<br/>
+> I certainly would've walked away by now.<br/>
 > Gonna wait it out.
 
 I was relatively bored as things were quite slow moving. Then came in Ayden (not his real name). I spritely 6 year old boy, blonde with soft flowing hair, and an absolute desire to go outside and play. Let me set the scene.
@@ -52,6 +52,8 @@ Here is an open letter to Ayden:
 *You will most likely never see or meet me, but I felt blessed to have met you. It was a pleasure to be able to help you and your family in an albiet minute way, but you inadvertently helped me to find guidance in my own life. So thank you.*
 
 *I hope you find joy in the rest of what life has to offer.*
+
+---
 
 *Remember to follow me on social media:<br/>
 [**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>

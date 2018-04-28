@@ -121,6 +121,8 @@ The last point was to deploy. The way I did this for chrome initially was to add
 
 If you also want to work with this start page, you can clone or fork it at my Github right [here](https://github.com/coffeeandscripts/startPage).
 
+---
+
 *Remember to follow me on social media:<br/>
 [**Twitter:** coffeenscripts](https://twitter.com/coffeenscripts)<br/>
 [**Youtube:** coffeeandscripts](https://www.youtube.com/channel/UCdM4qTlyqK74fjghIc-Syew)<br/>
