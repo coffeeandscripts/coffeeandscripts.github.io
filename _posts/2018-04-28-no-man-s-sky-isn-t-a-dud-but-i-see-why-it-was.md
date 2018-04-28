@@ -8,7 +8,7 @@ comments: true
 
 So I finally got around to playing this masterpiece of a failure. One of the most polarising and disappointing games ever released to the public, I was interested to figure out what had gone wrong. Looking at what the game was actually about, I realised that there was actually a lot that had gone right.
 
-**Bear in mind I am playing after the famous Atlas Update which overhauled large parts of the game**
+**Bear in mind I am playing after the famous Atlas Rises Update which overhauled large parts of the game**
 
 Now I'm a big fan of both open world adventure games (Minecraft and Skyrim) as well as point and click adventure games (Myst or Riven). I am also a fan games with no real meaning beyond story and the music such as Dear Esther. The soundtrack means a lot to me, and I was excited to hear 65daysofstatic has made this game's music. I'll get to that later.
 
