@@ -15,7 +15,7 @@ My name is Erin. I grew up and still live in Sydney, Australia. I think it's the
 
 I spent a lot of my childhood however playing sport and music. My sports of choice were swimming and basketball, while for music it was all guitar. I started with classical guitar and now play electric guitar as well as bass guitar. To this day, I try and find as much time to do the things I love, which always involves music of some sort. It keeps me calm and focussed.
 
-I'm a final year medical student here at the University of New South Wales. I enjoy the clinical aspect of it as well as engaging directly with surgery. One of my goals is to eventually become a paediatric or plastic surgeon. But that's very far away.
+I'm a doctor practicing at Liverpool Hospital, having graduated with as a Doctor of Medicine from the University of NSW. I enjoy the clinical aspect of it as well as engaging directly with surgery. One of my goals is to eventually become a vascular surgeon. But that's very far away. I am also currently enrolled in a Masters of Surgery.
 
 Coding and software in general came later in life. But it was clear from a young age that it was in me to get involved with that. 
 
